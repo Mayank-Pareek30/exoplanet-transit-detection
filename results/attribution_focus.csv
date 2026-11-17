@@ -1,0 +1,4 @@
+Method,Mean focus ratio,Std,N samples
+Integrated Gradients,6.63,3.38,20
+Grad Cam,1.97,4.53,20
+Occlusion,8.22,3.94,20

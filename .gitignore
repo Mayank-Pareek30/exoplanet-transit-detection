@@ -1,0 +1,26 @@
+# Data — download from doi:10.17632/wctcv34962.3, not committed
+data/*.csv
+*.csv.gz
+all_global.csv
+all_local.csv
+
+# Trained models
+models/
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

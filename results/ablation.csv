@@ -1,0 +1,5 @@
+Condition,accuracy,precision,recall,f1,roc_auc,Δ ROC-AUC
+full,0.8954,0.8677,0.8815,0.8746,0.9567,0.0
+no_centring,0.8935,0.89,0.8474,0.8681,0.9507,-0.006
+no_alignment,0.8332,0.8259,0.7563,0.7895,0.9101,-0.0466
+shuffled_input,0.7587,0.6826,0.779,0.7277,0.8367,-0.12

@@ -1,0 +1,5 @@
+Group,N,transit depth,noise level,central depth,snr proxy
+True positive,389,1.9999,0.3223,1.9961,7.0022
+False negative,50,1.9998,0.3835,1.8848,6.3472
+True negative,546,1.9945,0.4556,1.8425,5.2529
+False positive,76,1.9998,0.3514,1.9656,6.6582
